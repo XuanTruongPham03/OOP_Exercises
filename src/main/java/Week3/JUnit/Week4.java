@@ -1,6 +1,4 @@
-package Week3;
-
-import static java.lang.String.format;
+package Week3.JUnit;
 
 public class Week4 {
     /**
@@ -20,7 +18,7 @@ public class Week4 {
      * Phương thức tìm giá trị nhỏ nhất của mảng
      *
      * @param array Mảng số nguyên đầu vào.
-     * @return
+     * @return giá trị nhỏ nhất của mảng đó.
      */
     public static int minArray (int[] array) {
         // Tim gia tri nho nhat cua 1 mang so nguyen
@@ -43,8 +41,8 @@ public class Week4 {
      */
     public static String calculateBMI(double weight, double height){
         // Tinh BMI
-        double BMI = weight / Math.pow(height, 2);
-        format("%.1f", BMI);
+        double bmi1 = weight / Math.pow(height, 2);
+        double BMI = Math.round(bmi1*10.0) / 10.0;
 
         if (BMI  < 18.5) {
             return "Thiếu cân";

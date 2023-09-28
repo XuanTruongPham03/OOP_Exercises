@@ -1,4 +1,4 @@
-package Week2.GCD;
+package Week3.GCD;
 
 import java.util.Scanner;
 

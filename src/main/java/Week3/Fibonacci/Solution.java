@@ -1,4 +1,4 @@
-package Week2.Fibonacci;
+package Week3.Fibonacci;
 
 import java.util.Scanner;
 

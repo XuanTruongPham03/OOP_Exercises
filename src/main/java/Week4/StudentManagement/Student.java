@@ -1,4 +1,4 @@
-package Week3.StudentManagement;
+package Week4.StudentManagement;
 
 public class Student {
     private String name;
@@ -22,7 +22,7 @@ public class Student {
      * @param name Student's Name.
      * @param id Student's Id.
      * @param email Student's Email.
-      */
+     */
     public Student(String name, String id, String email) {
         this.name = name;
         this.id = id;

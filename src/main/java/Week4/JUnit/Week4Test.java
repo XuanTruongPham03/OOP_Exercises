@@ -1,4 +1,4 @@
-package Week3.JUnit;
+package Week4.JUnit;
 
 import org.testng.annotations.Test;
 

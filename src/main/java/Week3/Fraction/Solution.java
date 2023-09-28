@@ -1,4 +1,4 @@
-package Week2.Fraction;
+package Week3.Fraction;
 
 public class Solution {
     private int numerator;

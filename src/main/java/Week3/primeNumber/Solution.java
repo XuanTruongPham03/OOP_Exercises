@@ -1,4 +1,4 @@
-package Week2.primeNumber;
+package Week3.primeNumber;
 
 import java.util.Scanner;
 

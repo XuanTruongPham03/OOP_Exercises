@@ -1,4 +1,4 @@
-package Week1.HelloWorld;
+package Week2.HelloWorld;
 
 public class Solution {
     public static String printHello() {

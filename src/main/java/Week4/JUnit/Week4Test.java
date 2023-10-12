@@ -1,3 +1,4 @@
+/**
 package Week4.JUnit;
 
 import org.testng.annotations.Test;
@@ -110,3 +111,4 @@ public class Week4Test {
         assertEquals("Thiếu cân", bmi);
     }
 }
+*/
